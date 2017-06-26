@@ -191,4 +191,4 @@ Given the benefits of the Ethereum blockchain, a dapp could be a solution for ma
 *   Real-Estate
 *   Marketplaces
 
-...and the list goes on. We'll be providing detailed examples of how to build your own dapps in the near future, so bookmark this tutorial, and stay tuned.
+...and the list goes on. We'll be  providing detailed examples of how to build your own dapps in the near future, so bookmark this tutorial, and stay tuned.
